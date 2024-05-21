@@ -1,2 +1,1 @@
-# 1G_Config
-Archivos de Configuración de One Goal
+# Almacenar archivos que se trabajen en conjunto con abpro
